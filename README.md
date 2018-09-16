@@ -1,24 +1,11 @@
-# README
+# Moon Shots API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A graphql API for the (Moon Shots Client)[tbd]
 
-Things you may want to cover:
+## Getting started
 
-* Ruby version
+## Notes
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. graphql
+1. postgres array column type
+1. sorting on the back end
