@@ -1,6 +1,6 @@
 # Moon Shots API
 
-A graphql API for the (Moon Shots Client)[tbd]
+A graphql API for the [Moon Shots Client](https://github.com/lucyconklin/moon-shots-client)
 
 ## Getting started
 
