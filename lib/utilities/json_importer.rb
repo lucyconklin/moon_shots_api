@@ -47,8 +47,8 @@ class BarrelImporter
   end
   
   def show_results(satellites_created, barrels_created)
-    print cyan("#{satellites_created} Satellites Created!")
-    print magenta("#{barrels_created} Barrels Created!")
+    puts cyan("#{satellites_created} Satellites Created!")
+    puts magenta("#{barrels_created} Barrels Created!")
   end
   
   def cyan(text)
